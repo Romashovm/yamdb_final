@@ -1,7 +1,7 @@
 import csv
 
 from django.core.management.base import BaseCommand
-from reviews.models import Title, Category
+from reviews.models import Category, Title
 
 PATH = "static/data/"
 
