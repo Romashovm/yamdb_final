@@ -131,4 +131,4 @@ docker-compose exec web python manage.py collectstatic --no-input
 
 Проект доступен по адресу http://51.250.77.172/redoc/
 
-##### Проект Ромашова Михаил, студент Яндекс практикума, 33 когорта. Почта romashovm@gmail.com
+##### Проект Ромашова Михаил, студент Яндекс практикум, 33 когорта. Почта romashovm@gmail.com
